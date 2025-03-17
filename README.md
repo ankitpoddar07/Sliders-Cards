@@ -1,4 +1,4 @@
-# 🎴 Flipping Cards!
+# 🎴 Slider Cards!
 
 This is a fun and interactive component that allows you to hide less important information behind a visually appealing flip animation. **Perfect for portfolios, FAQs, quizzes, or creative UI elements!** 🎨✨
 
